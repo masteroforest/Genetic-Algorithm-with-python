@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-utils.py
+Фитнес-функция и функция декодирования
 """
 from __future__ import division
 
